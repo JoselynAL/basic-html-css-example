@@ -1,0 +1,38 @@
+body {
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 8;
+    padding: 8;
+}
+h1 {
+    color: black; 
+    text-align: center;
+    font-size: 2em; 
+}
+.container {
+    width: 100%;
+    margin: 0%;
+    background: #CCCCCC;
+    padding: 1px;
+    box-shadow: 0px 0px 10px white;
+    border-radius: 5px;
+}
+ul {
+    color: blue;
+    font-size: 1em;
+    display: inline-block;
+}
+.container2 {
+    width: 100%;
+    margin: 0%;
+    background: #dee2e6;
+    padding: 1px;
+    box-shadow: 0px 0px 10px white;
+    border-radius: 5px;
+    text-align: center;
+}
+
+
+
+
+
